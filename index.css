@@ -486,6 +486,12 @@ article .icon {
     height: 61%;
 }
 
+.project-img-4 {
+    border-radius: 2rem;
+    width: 52%;
+    height: 53%;
+}
+
 .project-title {
     margin: 1rem;
     color: black;
